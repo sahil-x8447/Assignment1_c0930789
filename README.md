@@ -5,6 +5,8 @@
 
 # Assignment Title
 # Title: Dog and Person Class Implementation and Unit Tests
+# Descrription:
+This project implements two Java classes, Dog and Person, with various functionalities. The Dog class represents a dog with attributes like name and age, while the Person class represents a person who may own a dog. The project includes JUnit 5 test cases to ensure correctness, covering functionalities such as updating a dog's name, checking if a person has an old dog, and handling scenarios where a person may not own a dog.
 
 
 Ensure that you have the following setup to run the Java application and unit tests:
