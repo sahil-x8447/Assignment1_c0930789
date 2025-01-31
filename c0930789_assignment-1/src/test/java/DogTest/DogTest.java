@@ -1,4 +1,10 @@
+package DogTest;
+
 import org.junit.jupiter.api.Test;
+import Dog.Dog;
+//import Dog.Person;
+
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class DogTest {
